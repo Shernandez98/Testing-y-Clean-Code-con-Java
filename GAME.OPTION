@@ -1,0 +1,3 @@
+public enumeracion GameOption {
+    ROCK, PAPER, SCISSORS;
+}
